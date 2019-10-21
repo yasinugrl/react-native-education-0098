@@ -26,7 +26,7 @@ Eğitim Temelde 5 ana başlık altında işlenecek.
   * React Native Navigations
   * React Native Global State Yönetimi(Redux)
   * Web Service - Api Request, Data Pars
-  * Third Party kütüphanelerin entegrasyonu
+  * Third Party Kütüphanelerin Entegrasyonu
   
   
   ### React Native’in Temelleri
@@ -118,8 +118,8 @@ Eğitim Temelde 5 ana başlık altında işlenecek.
 * Axios ile örnek web service üzerinden post işlemleri
 * Ders içerisinde geliştirilecek web servise ile entegre edilmesi
 
-### Third Party kütüphane Entegrasyonları
-* Projede Third party olarak kullanılabiliecek kütüphanelerin entegrasyonu
+### Third Party Kütüphane Entegrasyonları
+* Projede Third Party olarak kullanılabiliecek kütüphanelerin entegrasyonu
 
 
 ## Kullanılacak IDE’ler
