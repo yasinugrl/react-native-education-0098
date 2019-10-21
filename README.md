@@ -130,6 +130,12 @@ Proje ağırlıklı olarak VS code idesi ile geliştirilecek. Native taraftaki i
 
 Sketch ve Photoshop uygulamaları ise tasarım sürecinde tasarımları incelemek ve parçalamak için kullanılacak
 
+## Eğitime Gelmeden Önce Yapılacaklar
+ 
+Eğitime gelmeden önce eğer **Mac** Alt yapısına sahipseniz aşağıdaki link üzerinden **React Native CLI Quickstart** başlığı altındaki kurulumları yapmalısınız. Eğer **Windows veya Linux** işletim sistemine sahip bir cihazınız varsa **Expo CLI Quickstart** başlığı altındaki kurulumları yapmalısınız.
+
+https://facebook.github.io/react-native/docs/getting-started
+
  
  ## Eğitmen
  Yasin Uğurlu
